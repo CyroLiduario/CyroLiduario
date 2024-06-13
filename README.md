@@ -6,7 +6,7 @@ Olá! Sou Cyro Pereira Liduário, engenheiro químico com formação na Universi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/cyroliduario/)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/cyroliduario/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/cyroliduario/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=X)](https://x.com/cyroliduario_)
+[![X](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=X)](https://x.com/cyroliduario_)
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail)](mailto:cpliduario@gmail.com)
 
 ## Habilidades
